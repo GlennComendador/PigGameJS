@@ -30,6 +30,32 @@
       <button class="btn btn--new">🔄 New game</button>
       <button class="btn btn--roll">🎲 Roll dice</button>
       <button class="btn btn--hold">📥 Hold</button>
+      <button class="btn instructions">🛑 Instructions</button>
+
+      <div class="modal hidden">
+        <button class="close-modal">&times;</button>
+
+        <h1 class="instruction-title">🐷 Pig Game! 🐷</h1>
+
+        <p class="instruction-text">
+          Thank you for playing the game! The goal of the players is to reach
+          100 points for one to be declared as the winner.
+        </p>
+
+        <p class="instruction-text">
+          When the dice is rolled, the number on the dice will be added to the
+          current score. Once the player presses HOLD, it will then be added to
+          the Overall Score.
+        </p>
+
+        <p class="instruction-text">
+          However, when the number on the dice is 1️⃣, all points in the current
+          score will be lost and the turn will now go to the other player.
+        </p>
+
+        <p class="instruction-text good-luck">Good luck and Enjoy!</p>
+      </div>
+      <div class="overlay hidden"></div>
     </main>
     <script src="script.js"></script>
   </body>
