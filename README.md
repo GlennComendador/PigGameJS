@@ -11,3 +11,7 @@ be added to the Total Score.
 Created using JavaScript. HTML and CSS files were provided from a course instructor.
 
 Happy Playing! :)
+
+**VERSION HISTORY**
+1. Initial Version of the Game
+2. Added Instructions on how to play the game.
