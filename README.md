@@ -8,11 +8,14 @@ If the player rolls a Number 1,the accumulated scores will be forfeited and the 
 go to the next player. if no Number 1 is rolled and the player chose to Hold, the score will 
 be added to the Total Score.
 
-Created using JavaScript. HTML and CSS files were provided from a course instructor with
-modifications made by me.
+JavaScript Program created by me. HTML and CSS base code were provided from a course instructor 
+with improvements and modifications made by me.
+
+Visit the link to start playing: https://glenncomendador-piggame.netlify.app.
 
 Happy Playing! :)
 
 **VERSION HISTORY**
-1. Initial Version of the Game
+1. Initial Version of the Game as per the guide of the course instructor
 2. Added Instructions on how to play the game.
+3. Soon
